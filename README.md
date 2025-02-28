@@ -1,6 +1,7 @@
 <p align="center">
   <p align="center"> <img src="https://github.com/Widget-Wizards/Read-Aloud/blob/main/icon.png" width="200"/> </p>
 </p>
+
 # Read Aloud - Text-to-Speech Browser Extension  
 
 Read Aloud is a lightweight browser extension that allows users to select text on any webpage and have it read aloud with a right-click. The extension supports customization for volume, speed, and pitch, making it a flexible tool for users who prefer audio over reading.
