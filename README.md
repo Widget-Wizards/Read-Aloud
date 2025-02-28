@@ -35,6 +35,10 @@ Read Aloud is a lightweight browser extension that allows users to select text o
 - Shortcut key activation  
 - Voice selection for different accents  
 
+## 📜 License
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute the code as long as you provide proper attribution.  
+For more details, see the [LICENSE](LICENSE) file.
+
 ---
 
 ### **Enjoy a seamless text-to-speech experience with Read Aloud! 🚀🎤**  
